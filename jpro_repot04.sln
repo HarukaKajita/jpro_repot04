@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "jpro_repot04", "jpro_repot04\jpro_repot04.vcxproj", "{CC2A964D-315B-45E2-BF3A-D4EADF486FC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC2A964D-315B-45E2-BF3A-D4EADF486FC4}.Debug|x64.ActiveCfg = Debug|x64
+		{CC2A964D-315B-45E2-BF3A-D4EADF486FC4}.Debug|x64.Build.0 = Debug|x64
+		{CC2A964D-315B-45E2-BF3A-D4EADF486FC4}.Debug|x86.ActiveCfg = Debug|Win32
+		{CC2A964D-315B-45E2-BF3A-D4EADF486FC4}.Debug|x86.Build.0 = Debug|Win32
+		{CC2A964D-315B-45E2-BF3A-D4EADF486FC4}.Release|x64.ActiveCfg = Release|x64
+		{CC2A964D-315B-45E2-BF3A-D4EADF486FC4}.Release|x64.Build.0 = Release|x64
+		{CC2A964D-315B-45E2-BF3A-D4EADF486FC4}.Release|x86.ActiveCfg = Release|Win32
+		{CC2A964D-315B-45E2-BF3A-D4EADF486FC4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DF08813-FF86-4ED7-BEE7-9C41E7D82EB1}
+	EndGlobalSection
+EndGlobal
