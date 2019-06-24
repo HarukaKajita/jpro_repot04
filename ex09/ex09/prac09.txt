@@ -1,0 +1,18 @@
+スクリプトは 2019年06月15日 15時18分06秒
+ に開始しましたcomsv002:/home/us162039/jpro2019/ex09% script ex10.txt[40G./a.out[K[40Gscript ex10.txt[40G./a.out[K[40Gg++ prac10.cpp[40G./a.out[K[40Gg++ prac10.cpp[P[P[1@99
+comsv002:/home/us162039/jpro2019/ex09% ./a/[K.out
+Input Position : 
+1 2
+3 4
+5 6
+
+(1, 2) (3, 4) (5, 6) 
+comsv002:/home/us162039/jpro2019/ex09% ./a.out[40Gg++ prac9.cpp
+comsv002:/home/us162039/jpro2019/ex09% g++ prac9.cpp[40G./a.out[K
+ins1は完全燃焼できた
+ins2は燃えきらなかった
+comsv002:/home/us162039/jpro2019/ex09% exoi[K[Kit
+exit
+
+スクリプトは 2019年06月15日 15時18分59秒
+ に終了しました

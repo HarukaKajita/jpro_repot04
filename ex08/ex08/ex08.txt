@@ -1,0 +1,39 @@
+スクリプトは 2019年06月07日 19時16分08秒
+ に開始しましたcomsv002:/home/us162039/jpro2019/ex08% exit./a.out[40Gg++ prac08.cpp
+comsv002:/home/us162039/jpro2019/ex08% g++ prac08.cpp[40Gexit[K./a.out
+Input Strings:a b c d 
+d c b a 
+comsv002:/home/us162039/jpro2019/ex08% ./a.out[40Gg++ prac08.cpp
+comsv002:/home/us162039/jpro2019/ex08% 3 4 5 * + $
+3: コマンドが見つかりません.
+comsv002:/home/us162039/jpro2019/ex08% ./aou[K[K.out
+Input Formula:3 4 5 * + $
+
+ =  23
+comsv002:/home/us162039/jpro2019/ex08% ./a.out
+Input Formula:100 30 12 + 2 * - 54^H^C
+comsv002:/home/us162039/jpro2019/ex08% ./a.out
+Input Formula:100 30 12 + 2 * - 5 4 * + 2 /
+
+ =  18
+comsv002:/home/us162039/jpro2019/ex08% ./a.out
+Input Formula:50 30 20 - - 
+ =  40
+comsv002:/home/us162039/jpro2019/ex08% ./a.out[40G3 4 5 * + $[40Gg++ prac08.cpp
+comsv002:/home/us162039/jpro2019/ex08% g++ prac08.cpp[40G./a.out[K
+Input Strings:a[i] = 2
+2 = a[i] 
+comsv002:/home/us162039/jpro2019/ex08% ./a.out[40Gg++ prac08.cpp
+comsv002:/home/us162039/jpro2019/ex08% g++ prac08.cpp[40G./a.out[K
+Input Code:a[i] =~^H 2^C
+comsv002:/home/us162039/jpro2019/ex08% ./a.out
+Input Code:a[i] = 2
+good!
+comsv002:/home/us162039/jpro2019/ex08% ./a.out
+Input Code:a[3] = a[5] + sin(3];] (
+bad!
+comsv002:/home/us162039/jpro2019/ex08% exit
+exit
+
+スクリプトは 2019年06月07日 19時19分36秒
+ に終了しました
