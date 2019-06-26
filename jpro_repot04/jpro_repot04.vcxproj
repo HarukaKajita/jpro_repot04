@@ -152,8 +152,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="jpro_repot04.cpp" />
+    <ClCompile Include="Node.cpp" />
     <ClCompile Include="Queue.cpp" />
     <ClCompile Include="Stack.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="maze1.txt" />
+    <Text Include="maze2.txt" />
+    <Text Include="maze3.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

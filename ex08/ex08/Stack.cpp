@@ -4,17 +4,7 @@
 #include <sstream>
 using namespace std;
 
-class Node{
-private:
-  string str;
-  Node* next;
-public:
-  Node(string s, Node* n){
-    str = s;
-    next = n;
-  }
-  friend class Stack;
-};
+#include "Node.cpp"
 
 class Stack{
 private:
@@ -33,13 +23,13 @@ void Stack::push(string s){
   head = newHead;
 }
 
-string Stack::pop(){
+Point Stack::pop(){
   if(head == NULL){
     cerr << "StackError : error can't pop " << endl;
 	exit(EXIT_FAILURE);
   }
-  string ret = head->str;
-  Node* ptr = head->next;
+  Point ret = head->getData();
+  Node* ptr = head->getNext();
   delete head;
   head = ptr;
   return ret;

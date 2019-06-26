@@ -94,7 +94,7 @@ int main() {
 	bool rst = solveByQueue(ins, n);
 	if (rst) {
 		cout << "Queue: ゴールまで到達可能" << endl;
-		printPath();
+		printPath(ins, n);
 	}
 	else {
 		cout << "Queue: ゴールまで到達不可能" << endl;

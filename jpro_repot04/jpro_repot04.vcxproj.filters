@@ -24,5 +24,19 @@
     <ClCompile Include="Queue.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
+    <ClCompile Include="Node.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="maze1.txt">
+      <Filter>ソース ファイル</Filter>
+    </Text>
+    <Text Include="maze2.txt">
+      <Filter>ソース ファイル</Filter>
+    </Text>
+    <Text Include="maze3.txt">
+      <Filter>ソース ファイル</Filter>
+    </Text>
   </ItemGroup>
 </Project>
