@@ -1,9 +1,5 @@
 #pragma once
 
-#include <iostream>
-#include <cstdlib>
-using namespace std;
-
 #include "Stack.h"
 
 void Stack::push(Point s) {

@@ -2,6 +2,7 @@
 #include <iostream>
 using namespace std;
 
+#pragma once
 class Point {
 private:
 	int x, y;

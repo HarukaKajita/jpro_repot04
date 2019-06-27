@@ -5,8 +5,8 @@
 using namespace std;
 
 //#define Q1
-#define Q2
-//#define Q3
+//#define Q2
+#define Q3
 
 // Node, Queueと Stack クラスはここに定義
 // または include してもよい
@@ -268,7 +268,9 @@ int main() {
 
 	if (rst) {
 		cout << "Queue: ゴールまで到達可能" << endl;
+#if defined Q2 || defined Q3
 		printPath(ins, n);
+#endif 
 	}
 	else {
 		cout << "Queue: ゴールまで到達不可能" << endl;

@@ -1,12 +1,6 @@
 #pragma once
-#include <iostream>
-#include <cstdlib>
-#include <iomanip>
-
-using namespace std;
 
 #include "Queue.h"
-
 
 void Queue::enqueue(Point p){
   //新しいノードを作成
