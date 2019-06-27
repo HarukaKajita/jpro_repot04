@@ -5,23 +5,8 @@
 
 using namespace std;
 
-#include "Node.cpp"
+#include "Queue.h"
 
-
-class Queue{
-private:
-  Node* front;
-  Node* rear;
-
-public:
-  Queue(){front = rear = NULL;}
-  ~Queue();
-  void enqueue(Point);
-  Point dequeue();
-  bool isEmpty();
-};
-//destructor
-//member functions
 
 void Queue::enqueue(Point p){
   //新しいノードを作成
