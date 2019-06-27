@@ -2,22 +2,7 @@
 #include <iostream>
 using namespace std;
 
-class Point {
-private:
-	int x, y;
-public:
-	Point(int _x = -1, int _y = -1) {
-		x = _x;
-		y = _y;
-	}
-	int getX() {
-		return x;
-	}
-	int getY() {
-		return y;
-	}
-
-};
+#include "Point.h"
 
 //Node
 class Node {
